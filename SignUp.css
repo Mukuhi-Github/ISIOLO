@@ -1,8 +1,8 @@
 body {
     background: url("pic.jpg");
     background-repeat: no-repeat;
-    background-position: 350px 50px;
-    background-attachment: fixed;
+    background-position: center;
+
 }
 
 .SignUpBox {
